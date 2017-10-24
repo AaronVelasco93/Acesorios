@@ -1,23 +1,23 @@
-Algoritmo: Herramienta de diseño que se conforma por una secuencia ordenada de pasos que llevan a la solución de un problema.
+Algoritmo: Herramienta de diseÃ±o que se conforma por una secuencia ordenada de pasos que llevan a la soluciÃ³n de un problema.
 
-Diagrama de flujo: Hearramienta de diseño que representa gráficamente la lógica y secuencia de un algoritmo.
+Diagrama de flujo: Hearramienta de diseÃ±o que representa grÃ¡ficamente la lÃ³gica y secuencia de un algoritmo.
 
-Programación estructurada: Te´ria que consiste en construir programas de fácil comprensión. La programación estructurada propone 
-	segregar los procesos en estructuras lo más simples posibles, las cuales se conocen como secuencias, selección e iteración.
+ProgramaciÃ³n estructurada: TeÂ´ria que consiste en construir programas de fÃ¡cil comprensiÃ³n. La programaciÃ³n estructurada propone 
+	segregar los procesos en estructuras lo mÃ¡s simples posibles, las cuales se conocen como secuencias, selecciÃ³n e iteraciÃ³n.
 
-	"A finales de los años 1970 surgió una nueva forma de programar que no solamente daba lugar a programas fiables y 
-	eficientes, sino que además estaban escritos de manera que facilitaba su mejor comprensión, no sólo proveyendo ventajas durante 
-	la fase de desarrollo, sino también posibilitando una más sencilla modificación posterior.
+	"A finales de los aÃ±os 1970 surgiÃ³ una nueva forma de programar que no solamente daba lugar a programas fiables y 
+	eficientes, sino que ademÃ¡s estaban escritos de manera que facilitaba su mejor comprensiÃ³n, no sÃ³lo proveyendo ventajas durante 
+	la fase de desarrollo, sino tambiÃ©n posibilitando una mÃ¡s sencilla modificaciÃ³n posterior.
 
-	El teorema del programa estructurado, propuesto por Böhm-Jacopini, demuestra que todo programa puede escribirse utilizando 
-	únicamente las tres instrucciones de control siguientes:
+	El teorema del programa estructurado, propuesto por BÃ¶hm-Jacopini, demuestra que todo programa puede escribirse utilizando 
+	Ãºnicamente las tres instrucciones de control siguientes:
 
     		Secuencia.
-    		Instrucción condicional.
-    		Iteración (bucle de instrucciones) con condición al principio.
+    		InstrucciÃ³n condicional.
+    		IteraciÃ³n (bucle de instrucciones) con condiciÃ³n al principio.
 
 	Solamente con estas tres estructuras se pueden escribir todos los programas y aplicaciones posibles." *
 
-
+// te falto informacion y bibliografia en apa
 
 *https://es.wikipedia.org/wiki/Programaci%C3%B3n_estructurada#Or.C3.ADgenes_de_la_programaci.C3.B3n_estructurada
